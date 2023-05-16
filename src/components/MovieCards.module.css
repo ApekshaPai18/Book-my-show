@@ -1,0 +1,19 @@
+.showmovie{
+    max-width:30%; 
+    height: max-content; 
+    margin: 5px;
+    font-size: 20px;
+    flex: 1 1 200px;
+}
+
+.showmovie img{
+    height: 300px;
+}
+
+.parent{
+    margin-top: 50px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

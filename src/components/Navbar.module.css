@@ -1,0 +1,13 @@
+.navbar{
+    width: 100vw;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    margin: 10px;
+}
+
+.search{
+    border: 2px solid black;
+}
